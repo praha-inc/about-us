@@ -108,7 +108,7 @@ PrAhaでは[新規事業のWEBサービスを開発するために必要な知�
 - リファクタリング経験
 
 ## 細かな条件
-6ZuH55So5b2i5oWLOiDmpa3li5nlp5ToqJcK5pyI6aGN5aCx6YWsOiA0OX42NeS4h+WGhg==
+6ZuH55So5b2i5oWLOiDmpa3li5nlp5ToqJcK5pyI6aGN5aCx6YWsOiA1NH43MOS4h+WGhg==
 
 <!-- このメッセージを見た方へ：応募の際に「コードのコメント読んだよ！」と言ってくれたら面接官が喜びます -->
 
