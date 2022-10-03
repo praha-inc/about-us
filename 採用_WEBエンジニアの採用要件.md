@@ -107,8 +107,8 @@ PrAhaでは[新規事業のWEBサービスを開発するために必要な知�
 - テスタビリティの高いコードを書ける
 - リファクタリング経験
 
-## 細かな条件
-6ZuH55So5b2i5oWLOiDmpa3li5nlp5ToqJcK5pyI6aGN5aCx6YWsOiA1NH43MOS4h+WGhg==
+## 年間報酬
+6ZuH55So5b2i5oWLOiDmpa3li5nlp5ToqJcK5bm06ZaT5aCx6YWsOiA3Njh+OTYw5LiH5YaG
 
 <!-- このメッセージを見た方へ：応募の際に「コードのコメント読んだよ！」と言ってくれたら面接官が喜びます -->
 
