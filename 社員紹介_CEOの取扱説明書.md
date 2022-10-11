@@ -1,3 +1,23 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [CEOについて](#ceo%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
+- [欠点](#%E6%AC%A0%E7%82%B9)
+  - [この欠点一覧の使い方](#%E3%81%93%E3%81%AE%E6%AC%A0%E7%82%B9%E4%B8%80%E8%A6%A7%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
+  - [真顔が怖い](#%E7%9C%9F%E9%A1%94%E3%81%8C%E6%80%96%E3%81%84)
+  - [せっかち](#%E3%81%9B%E3%81%A3%E3%81%8B%E3%81%A1)
+  - [話し方が怖い](#%E8%A9%B1%E3%81%97%E6%96%B9%E3%81%8C%E6%80%96%E3%81%84)
+  - [放任](#%E6%94%BE%E4%BB%BB)
+  - [プレッシャーに弱い](#%E3%83%97%E3%83%AC%E3%83%83%E3%82%B7%E3%83%A3%E3%83%BC%E3%81%AB%E5%BC%B1%E3%81%84)
+  - [自分一人で仕事を抱えすぎる](#%E8%87%AA%E5%88%86%E4%B8%80%E4%BA%BA%E3%81%A7%E4%BB%95%E4%BA%8B%E3%82%92%E6%8A%B1%E3%81%88%E3%81%99%E3%81%8E%E3%82%8B)
+- [長所](#%E9%95%B7%E6%89%80)
+  - [表現力](#%E8%A1%A8%E7%8F%BE%E5%8A%9B)
+  - [物怖じしない](#%E7%89%A9%E6%80%96%E3%81%98%E3%81%97%E3%81%AA%E3%81%84)
+  - [判断が速い](#%E5%88%A4%E6%96%AD%E3%81%8C%E9%80%9F%E3%81%84)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 このページis何？　→ プラハCEOの取り扱い説明書
 
 # CEOについて
