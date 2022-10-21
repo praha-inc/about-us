@@ -24,6 +24,9 @@
 - 名前:松原舜也
 - 経歴は[こちら](https://www.praha-inc.com/member/shunyamatsubara)
 
+# mtgの設定方法
+- slackのプロフィールにcalendlyのリンクを貼ってあるので、空き時間を自由に指定してください。calendlyから飛んでくる通知で気づけるので、設定後の連絡は不要です！
+
 # 欠点
 以下の理由からCEO松原の欠点を列挙しています:
 
