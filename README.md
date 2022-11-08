@@ -3,6 +3,9 @@
 # このドキュメントis何?
 [PrAha Inc.](https://www.praha-inc.com/)(株式会社プラハ)という会社について知ってもらいたくて書いた内容や社内制度をまとめているレポジトリです。
 
+## :book: Entrance book
+興味のある方は、こちらの[Entrance bookもご覧ください！](https://separated-rover-67e.notion.site/Entrance-Book-0f143777a5df47c28d08d85498ed82c4)
+
 ## 👀 about us
 - [🎪カルチャーガイド](./カルチャーガイド.md)
 
