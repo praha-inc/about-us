@@ -1,28 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [✈️ 旅行制度](#-%E6%97%85%E8%A1%8C%E5%88%B6%E5%BA%A6)
-  - [どうして社員の交流促進にお金を使う必要があるのか](#%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E7%A4%BE%E5%93%A1%E3%81%AE%E4%BA%A4%E6%B5%81%E4%BF%83%E9%80%B2%E3%81%AB%E3%81%8A%E9%87%91%E3%82%92%E4%BD%BF%E3%81%86%E5%BF%85%E8%A6%81%E3%81%8C%E3%81%82%E3%82%8B%E3%81%AE%E3%81%8B)
-  - [👍 ワーケーション](#-%E3%83%AF%E3%83%BC%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
-    - [目的](#%E7%9B%AE%E7%9A%84)
-    - [開催頻度](#%E9%96%8B%E5%82%AC%E9%A0%BB%E5%BA%A6)
-    - [過去の行き先](#%E9%81%8E%E5%8E%BB%E3%81%AE%E8%A1%8C%E3%81%8D%E5%85%88)
-    - [何をするのか](#%E4%BD%95%E3%82%92%E3%81%99%E3%82%8B%E3%81%AE%E3%81%8B)
-    - [会社の費用負担](#%E4%BC%9A%E7%A4%BE%E3%81%AE%E8%B2%BB%E7%94%A8%E8%B2%A0%E6%8B%85)
-    - [個人の費用負担](#%E5%80%8B%E4%BA%BA%E3%81%AE%E8%B2%BB%E7%94%A8%E8%B2%A0%E6%8B%85)
-    - [費用の目安](#%E8%B2%BB%E7%94%A8%E3%81%AE%E7%9B%AE%E5%AE%89)
-  - [👐 社員旅行](#-%E7%A4%BE%E5%93%A1%E6%97%85%E8%A1%8C)
-    - [目的](#%E7%9B%AE%E7%9A%84-1)
-    - [開催頻度](#%E9%96%8B%E5%82%AC%E9%A0%BB%E5%BA%A6-1)
-    - [過去の行き先](#%E9%81%8E%E5%8E%BB%E3%81%AE%E8%A1%8C%E3%81%8D%E5%85%88-1)
-    - [会社の費用負担](#%E4%BC%9A%E7%A4%BE%E3%81%AE%E8%B2%BB%E7%94%A8%E8%B2%A0%E6%8B%85-1)
-    - [個人の費用負担](#%E5%80%8B%E4%BA%BA%E3%81%AE%E8%B2%BB%E7%94%A8%E8%B2%A0%E6%8B%85-1)
-    - [費用の目安](#%E8%B2%BB%E7%94%A8%E3%81%AE%E7%9B%AE%E5%AE%89-1)
-  - [詳細が気になったら](#%E8%A9%B3%E7%B4%B0%E3%81%8C%E6%B0%97%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%9F%E3%82%89)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # ✈️ 旅行制度
 プラハはフルリモートの会社なので社員同士の接点が生まれづらい。そのため社員同士の交流のキッカケを生み出すために会社負担の旅行制度を用意している。
 

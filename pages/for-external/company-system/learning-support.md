@@ -1,19 +1,3 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [👨‍🎓  学習支援制度](#--%E5%AD%A6%E7%BF%92%E6%94%AF%E6%8F%B4%E5%88%B6%E5%BA%A6)
-  - [❔ なぜやるのか](#-%E3%81%AA%E3%81%9C%E3%82%84%E3%82%8B%E3%81%AE%E3%81%8B)
-  - [💭 大事にしたい考え方](#-%E5%A4%A7%E4%BA%8B%E3%81%AB%E3%81%97%E3%81%9F%E3%81%84%E8%80%83%E3%81%88%E6%96%B9)
-  - [📖 書籍の購入補助](#-%E6%9B%B8%E7%B1%8D%E3%81%AE%E8%B3%BC%E5%85%A5%E8%A3%9C%E5%8A%A9)
-      - [手順](#%E6%89%8B%E9%A0%86)
-  - [🔈 勉強会の参加補助](#-%E5%8B%89%E5%BC%B7%E4%BC%9A%E3%81%AE%E5%8F%82%E5%8A%A0%E8%A3%9C%E5%8A%A9)
-      - [手順](#%E6%89%8B%E9%A0%86-1)
-  - [👓 有識者クーポン](#-%E6%9C%89%E8%AD%98%E8%80%85%E3%82%AF%E3%83%BC%E3%83%9D%E3%83%B3)
-      - [使う上での注意](#%E4%BD%BF%E3%81%86%E4%B8%8A%E3%81%A7%E3%81%AE%E6%B3%A8%E6%84%8F)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # 👨‍🎓  学習支援制度
 
 ## ❔ なぜやるのか
@@ -39,7 +23,7 @@ PrAhaの社員なら賢明な判断を下せることを信じています。
 
 #### 手順
 - 全社員に配布しているPaildカードで書籍を買う
-- 領収書を Slack のpraha_receiptチャンネルに貼る(Slackチャンネルが見当たらなければ[こちらを参照](./%E7%A4%BE%E5%86%85%E7%94%A8_slack%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E8%A1%A8.md))
+- 領収書を Slack のpraha_receiptチャンネルに貼る(Slackチャンネルが見当たらなければ[こちらを参照](/for-employees/slack))
 - 他の人が興味を持つかもしれないのでプラハの本棚spreadsheetに記載(リンクはSlackチャンネルを参照)
 - 読み終わったら代々木上原オフィスの本棚に保管(これをやらないと横領になってしまうので気をつけてください)
 
@@ -47,7 +31,7 @@ PrAhaの社員なら賢明な判断を下せることを信じています。
 勉強会の参加にかかる費用も基本的に全て会社が負担します。
 
 #### 手順
-- 参加したいイベント名と負担費用をcan_i_useチャンネルに投稿([Slackチャンネル一覧はこちら](./%E7%A4%BE%E5%86%85%E7%94%A8_slack%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E8%A1%A8.md))
+- 参加したいイベント名と負担費用をcan_i_useチャンネルに投稿([Slackチャンネル一覧はこちら](/for-employees/slack))
 - 👍 が2つ以上ついたら参加ok
 - 全体定例の議事録に、自分が参加するイベントや書籍名と会社の負担費用金額を伝える
 - 全体定例の場で、他に参加したい人がいないか募る

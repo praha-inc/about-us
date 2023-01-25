@@ -1,4 +1,3 @@
-<!-- DOCTOC SKIP -->
 # PrAhaでの使用技術
 - [stackshare](https://stackshare.io/praha-inc/praha-inc)
 - [whatweuse](https://www.whatweuse.dev/company/praha)
