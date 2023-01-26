@@ -4,17 +4,17 @@
     "type": "page"
   },
   "for-external": {
-    "title": "For external",
+    "title": "社外の方向け",
     "type": "page"
   },
   "for-employees": {
-    "title": "For employees",
+    "title": "社員向け",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "お問い合わせ ↗",
     "type": "page",
-    "href": "https://twitter.com/prahai",
+    "href": "https://www.praha-inc.com/contact",
     "newWindow": true
   }
 }
