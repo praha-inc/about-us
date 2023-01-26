@@ -1,0 +1,20 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "for-external": {
+    "title": "For external",
+    "type": "page"
+  },
+  "for-employees": {
+    "title": "For employees",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://twitter.com/prahai",
+    "newWindow": true
+  }
+}
