@@ -33,10 +33,6 @@ PrAhaの受託開発事業に関する詳細は[こちら](/for-external/busines
 ### 2.オンラインブートキャンプ
 業務経験1~2年目の方に向けたオンラインブートキャンプ「[PrAha Challenge](https://praha-challenge.com/)」を運営しています。
 
-PrAha Challengeに関する詳細は[こちら](./business/プラハチャレンジ.md)をご覧ください。
-
-<!-- リンク切れてる。mdがまだ用意できてない？ -->
-
 ## PrAhaらしさとは何か?
 ### 一言で言うと
 PrAhaらしさを一言で表現すると「優しいギーク」だと思います。
