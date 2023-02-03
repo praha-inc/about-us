@@ -1,0 +1,31 @@
+{
+  "name": "praha-inc-about-us",
+  "private": true,
+  "version": "1.0.0",
+  "description": "About PrAha, Inc.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praha-inc/about-us.git"
+  },
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shuding/nextra-docs-template/issues"
+  },
+  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "dependencies": {
+    "next": "13.1.4",
+    "nextra": "2.2.12",
+    "nextra-theme-docs": "2.2.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.18",
+    "typescript": "4.9.4"
+  }
+}
