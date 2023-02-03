@@ -5,7 +5,7 @@
 興味のある方は、こちらの[Entrance bookもご覧ください！](https://separated-rover-67e.notion.site/Entrance-Book-0f143777a5df47c28d08d85498ed82c4)
 
 ## 👀 about us
-- [🎪カルチャーガイド](/for-external/culture.md)
+- [🎪カルチャーガイド](/for-external/culture)
 
 ## 👐 募集中の職種
 - [💻 WEBエンジニア](/for-external/recruitment/engineer)
@@ -14,7 +14,7 @@
 - [🤝 エンジニア採用担当](/for-external/recruitment/recruiter)
 
 ## 🏃 社内制度
-- [部活](/for-external/company-system/club.md)
-- [旅行](/for-external/company-system/travel.md)
-- [学習支援制度](/for-external/company-system/learning-support.md)
-- [勉強会](/for-external/company-system/study.md)
+- [部活](/for-external/company-system/club)
+- [旅行](/for-external/company-system/travel)
+- [学習支援制度](/for-external/company-system/learning-support)
+- [勉強会](/for-external/company-system/study)

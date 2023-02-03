@@ -7,4 +7,10 @@ export default {
   footer: {
     text: '©2020 PrAha Inc. All Rights Reserved',
   },
+  feedback: {
+    content: null
+  },
+  editLink: {
+    component: () => null
+  }
 };
