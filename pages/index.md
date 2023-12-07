@@ -14,7 +14,4 @@
 - [🤝 エンジニア採用担当](/for-external/recruitment/recruiter)
 
 ## 🏃 社内制度
-- [部活](/for-external/company-system/club)
-- [旅行](/for-external/company-system/travel)
-- [学習支援制度](/for-external/company-system/learning-support)
-- [勉強会](/for-external/company-system/study)
+- [ワーケーション](/for-external/company-system/travel)
