@@ -3,4 +3,12 @@ const withNextra = require("nextra")({
   themeConfig: "./theme.config.jsx",
 });
 
-module.exports = withNextra({});
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  images: {
+    unoptimized: true,
+  },
+}
+
+module.exports = withNextra(nextConfig);
