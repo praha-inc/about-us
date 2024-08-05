@@ -1,3 +1,5 @@
+import type { DocsThemeConfig } from 'nextra-theme-docs'
+
 export default {
   logo: <strong>PrAha</strong>,
   project: {
@@ -12,5 +14,5 @@ export default {
   },
   editLink: {
     component: () => null
-  }
-};
+  },
+} satisfies DocsThemeConfig;
