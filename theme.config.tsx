@@ -1,7 +1,9 @@
 import type { DocsThemeConfig } from 'nextra-theme-docs'
 
+const siteTitle = 'PrAha Entrance Book';
+
 export default {
-  logo: <strong>PrAha</strong>,
+  logo: <strong>{siteTitle}</strong>,
   project: {
     link: 'https://github.com/praha-inc/about-us',
   },
@@ -14,5 +16,10 @@ export default {
   },
   editLink: {
     text: 'GitHubでこのページの修正を提案する'
+  },
+  useNextSeoProps() {
+    return {
+      titleTemplate: `%s | ${siteTitle}`,
+    };
   },
 } satisfies DocsThemeConfig;
