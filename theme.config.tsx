@@ -5,7 +5,7 @@ export default {
   project: {
     link: 'https://github.com/praha-inc/about-us',
   },
-  docsRepositoryBase: 'https://github.com/praha-inc/about-us',
+  docsRepositoryBase: 'https://github.com/praha-inc/about-us/tree/main',
   footer: {
     text: '©2020 PrAha Inc. All Rights Reserved',
   },
@@ -13,6 +13,6 @@ export default {
     content: null
   },
   editLink: {
-    component: () => null
+    text: 'GitHubでこのページの修正を提案する'
   },
 } satisfies DocsThemeConfig;
