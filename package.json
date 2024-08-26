@@ -17,7 +17,8 @@
     "build": "next build",
     "start": "next start",
     "lint:code": "eslint .",
-    "lint:text": "textlint *.md **/*.md"
+    "lint:text": "textlint *.md **/*.md",
+    "lint:type": "tsc --noEmit --pretty"
   },
   "dependencies": {
     "@next/third-parties": "14.2.6",

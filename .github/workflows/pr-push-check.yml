@@ -36,3 +36,17 @@ jobs:
 
       - name: Lint
         run: pnpm run lint:code
+
+  lint-type:
+    name: Lint Type
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+
+      - name: Setup
+        uses: ./.github/actions/setup
+
+      - name: Lint
+        run: pnpm run lint:type
