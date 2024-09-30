@@ -1,6 +1,8 @@
-const withNextra = require("nextra")({
-  theme: "nextra-theme-docs",
-  themeConfig: "./theme.config.tsx",
+import nextra from 'nextra';
+
+const withNextra = nextra({
+  theme: 'nextra-theme-docs',
+  themeConfig: './theme.config.tsx',
 });
 
 /** @type {import('next').NextConfig} */
@@ -24,8 +26,8 @@ const nextConfig = {
         destination: 'https://entrance.praha-inc.com/:path*',
         permanent: true,
       },
-    ]
+    ];
   },
-}
+};
 
-module.exports = withNextra(nextConfig);
+export default withNextra(nextConfig);
