@@ -11,23 +11,21 @@ export default {
   },
   docsRepositoryBase: 'https://github.com/praha-inc/about-us/tree/main',
   footer: {
-    text: '©2020 PrAha Inc. All Rights Reserved',
+    content: '©2020 PrAha Inc. All Rights Reserved',
   },
   feedback: {
     content: null,
   },
   editLink: {
-    text: 'GitHubでこのページの修正を提案する',
-  },
-  useNextSeoProps() {
-    return {
-      titleTemplate: `%s | ${siteTitle}`,
-    };
+    content: 'GitHubでこのページの修正を提案する',
   },
   head: function Head() {
     const config = useConfig();
     return (
       <>
+        <title>
+          {`${config.title} | ${siteTitle}`}
+        </title>
         <meta
           property="og:url"
           content="https://entrance.praha-inc.com/"
