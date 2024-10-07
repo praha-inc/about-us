@@ -1,4 +1,9 @@
 export default {
+  '*': {
+    theme: {
+      breadcrumb: false,
+    },
+  },
   'casual-interview-form': {
     type: 'page',
     title: 'カジュアル面談に応募する',
