@@ -24,7 +24,7 @@ export default {
   'benefits': '福利厚生',
   'hr-evaluation': '人事評価',
   'pracracy-manual': 'プラクラシー',
-  'employee-introduction': '社員紹介',
+  'employee-interview': '社員インタビュー',
   'recruitment-section': {
     type: 'separator',
     title: '採用情報',
