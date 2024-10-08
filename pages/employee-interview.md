@@ -1,5 +1,7 @@
-# 社員紹介
-株式会社PrAhaの社員を紹介するページです。
+# 社員インタビュー
+株式会社PrAhaの社員にインタビューした音声を紹介しているページです。
+
+会社の雰囲気を感じていただくのが目的です。
 
 ## 社員の特徴
 以下のような方が多いです。
@@ -12,10 +14,7 @@
 - 自立している
   - 自己管理ができて、周りと協調できる。
 
-## 入社インタビュー
-以下のページで、社員のインタビューをしています。
-
-### エンジニア
+## エンジニアへのインタビュー
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/1VWVk6kxukUqKlLUU1esLh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/3WF75r4wAHHRLPu72hP9A1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -39,7 +38,7 @@
 
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5P0DqZnyNHhST1c5UYfTw8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-### デザイナー
+## デザイナーへのインタビュー
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5Rhzd9wsnKAOIPZRQ9RvgT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/0WMZbj3g1P4JmgvC0Hy6bG?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
