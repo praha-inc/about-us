@@ -1,19 +1,5 @@
-# 社員紹介
-株式会社PrAhaの社員を紹介するページです。
-
-## 社員の特徴
-以下のような方が多いです。
-
-- 優しいギーク
-  - 知的好奇心が強く、納得するまで探求し、論理的に考えるのが好き。
-  - ただ、根っこの部分は優しくて親しみやすい。
-- ゲーマー
-  - ゲームが大好き。
-- 自立している
-  - 自己管理ができて、周りと協調できる。
-
-## 入社インタビュー
-以下のページで、社員のインタビューをしています。
+# 社員インタビュー
+株式会社PrAhaの社員にインタビューした音声を紹介しているページです。
 
 ### エンジニア
 <iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/1VWVk6kxukUqKlLUU1esLh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
