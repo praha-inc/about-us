@@ -19,7 +19,7 @@ export default {
     type: 'separator',
     title: '会社紹介',
   },
-  'praha-overview': 'プラハってどんな会社？',
+  'praha-overview': 'PrAhaってどんな会社？',
   'business-overview': '事業内容',
   'benefits': '福利厚生',
   'hr-evaluation': '人事評価',
