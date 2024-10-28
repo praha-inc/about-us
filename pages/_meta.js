@@ -25,6 +25,7 @@ export default {
   'hr-evaluation': '人事評価',
   'pracracy-manual': 'プラクラシー',
   'employee-interview': '社員インタビュー',
+  'numbers': '数字で見るPrAha',
   'recruitment-section': {
     type: 'separator',
     title: '採用情報',
