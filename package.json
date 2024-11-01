@@ -14,7 +14,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next-sitemap --config next-sitemap.config.mjs",
     "start": "next start",
     "lint:code": "eslint .",
     "lint:text": "textlint *.md **/*.md",
@@ -23,6 +23,7 @@
   "dependencies": {
     "@next/third-parties": "14.2.8",
     "next": "14.2.8",
+    "next-sitemap": "4.2.3",
     "nextra": "2.13.4",
     "nextra-theme-docs": "2.13.4",
     "react": "18.3.1",
