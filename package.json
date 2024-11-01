@@ -7,6 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "lint:code": "eslint .",
     "lint:text": "textlint *.md **/*.md"
   },
   "repository": {
@@ -30,8 +31,18 @@
     "textlint-rule-preset-smarthr": "1.32.0"
   },
   "devDependencies": {
+    "@agaroot/eslint-config-common": "3.0.6",
+    "@agaroot/eslint-config-definer": "1.0.5",
+    "@agaroot/eslint-config-javascript": "2.0.7",
+    "@agaroot/eslint-config-next": "3.0.9",
+    "@agaroot/eslint-config-react": "3.0.9",
+    "@agaroot/eslint-config-style": "2.0.8",
+    "@agaroot/eslint-config-typescript": "2.0.8",
+    "@tsconfig/next": "2.0.3",
+    "@tsconfig/strictest": "2.0.5",
     "@types/node": "22.5.0",
     "@types/react": "18.3.4",
+    "eslint": "8.57.0",
     "typescript": "5.5.4"
   },
   "packageManager": "pnpm@9.8.0"
