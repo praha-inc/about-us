@@ -1,20 +1,30 @@
 {
-  "index": {
-    "title": "Home",
-    "type": "page"
-  },
-  "for-external": {
-    "title": "社外の方向け",
-    "type": "page"
-  },
-  "for-employees": {
-    "title": "社員向け",
-    "type": "page"
-  },
-  "contact": {
-    "title": "お問い合わせ ↗",
+  "casual-interview-form": {
     "type": "page",
-    "href": "https://www.praha-inc.com/contact",
+    "title": "カジュアル面談に応募する",
+    "href": "https://docs.google.com/forms/d/1whmNgig8TKm8qTvAAYm5xjYE-3twTW8IIIen1ZMlyZE/viewform",
     "newWindow": true
-  }
+  },
+  "introduction-section": {
+    "type": "separator",
+    "title": "はじめに"
+  },
+  "index": "このサイトは何？",
+  "praha-overview-section": {
+    "type": "separator",
+    "title": "会社紹介"
+  },
+  "praha-overview": "プラハってどんな会社？",
+  "business-overview": "事業内容",
+  "benefits": "福利厚生",
+  "hr-evaluation": "人事評価",
+  "pracracy-manual": "プラクラシー",
+  "employee-introduction": "社員紹介",
+  "recruitment-section": {
+    "type": "separator",
+    "title": "採用情報"
+  },
+  "web-engineer-recruit": "Webエンジニア",
+  "ui-ux-designer-recruit": "UI/UXデザイナー",
+  "recruiter-recruit": "リクルーター"
 }
