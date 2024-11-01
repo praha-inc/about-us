@@ -1,5 +1,7 @@
 {
   "rules": {
-    "preset-smarthr": true
+    "preset-smarthr": {
+      "sentence-length": false
+    }
   }
 }
