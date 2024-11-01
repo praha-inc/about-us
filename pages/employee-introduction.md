@@ -16,21 +16,33 @@
 以下のページで、社員のインタビューをしています。
 
 ### エンジニア
-- [第3回 松原さん(CEO)](https://podcasters.spotify.com/pod/show/praha-inc/episodes/3-CEO-e18vvc4)
-- [第5回 堀さん(CTO)](https://podcasters.spotify.com/pod/show/praha-inc/episodes/5-CTO-e19l5hj)
-- [第10回 粟田さん(PrAha Challenge初の卒業生インタビュー)](https://podcasters.spotify.com/pod/show/praha-inc/episodes/10-e1bme12)
-- [第24回 石原さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/24-e1hgptp)
-- [第25回 村上さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/25-e1hp7nv)
-- [第49回 大平さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/49-e1ts6s7)
-- [第61回 笠原さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/61-e23lnel)
-- [第63回 近藤さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/63-e24hrgm)
-- [第64回 神谷さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/64-e24t8p7)
-- [第65回 鳫林さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/65-e25a75t)
-- [第66回 岡崎さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/66-e25lgst)
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/1VWVk6kxukUqKlLUU1esLh?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/3WF75r4wAHHRLPu72hP9A1?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5nRPoPTTmhU2hHhVqUe2f9?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/6IiOkrkerbGTnD9jCMq4oe?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/2xTfMF3ivXDcFDSPNUc9AI?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/1rIMgmDm7fCpU4lqNoQDT7?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5i8dxi3ZE542rxoRpOnNKs?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/2nP3Z7G3TlBkcMCmz1oqw2?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/1vPL0Jnm7gRGTrbBC4lz8r?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/78DEc7IEFYHuECK3Rwr6aR?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5P0DqZnyNHhST1c5UYfTw8?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### デザイナー
-- [第4回 福田さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/4-e19cdtc)
-- [第56回 志織さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/56-e20ssg5)
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/5Rhzd9wsnKAOIPZRQ9RvgT?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/0WMZbj3g1P4JmgvC0Hy6bG?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ### リクルーター
-- [第36回 松下さん](https://podcasters.spotify.com/pod/show/praha-inc/episodes/36-e1obrrb)
+<iframe style="border-radius:12px; margin-bottom:8px;" src="https://open.spotify.com/embed/episode/2HJPfpNB6Kb2aYEP493tMc?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
