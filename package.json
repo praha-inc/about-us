@@ -43,7 +43,7 @@
     "@tsconfig/next": "2.0.3",
     "@tsconfig/strictest": "2.0.5",
     "@types/node": "22.7.4",
-    "@types/react": "18.3.10",
+    "@types/react": "18.3.11",
     "eslint": "8.57.1",
     "typescript": "5.6.2"
   },
