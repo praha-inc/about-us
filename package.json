@@ -1,35 +1,51 @@
 {
   "name": "praha-inc-about-us",
-  "private": true,
   "version": "1.0.0",
+  "private": true,
   "description": "About PrAha, Inc.",
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
+  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "bugs": {
+    "url": "https://github.com/shuding/nextra-docs-template/issues"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/praha-inc/about-us.git"
   },
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next-sitemap --config next-sitemap.config.mjs",
+    "start": "next start",
+    "lint:code": "eslint .",
+    "lint:text": "textlint *.md **/*.md",
+    "lint:type": "tsc --noEmit --pretty"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
-    "@next/third-parties": "14.2.6",
-    "next": "14.2.6",
-    "nextra": "2.13.4",
-    "nextra-theme-docs": "2.13.4",
+    "@next/third-parties": "15.0.3",
+    "next": "15.0.3",
+    "next-sitemap": "4.2.3",
+    "nextra": "3.2.3",
+    "nextra-theme-docs": "3.2.3",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "remark-emoji": "5.0.1"
+    "remark-emoji": "5.0.1",
+    "textlint": "14.3.0",
+    "textlint-rule-preset-smarthr": "1.32.0"
   },
   "devDependencies": {
-    "@types/node": "22.5.0",
-    "@types/react": "18.3.4",
-    "typescript": "5.5.4"
+    "@agaroot/eslint-config-common": "3.0.6",
+    "@agaroot/eslint-config-definer": "1.0.5",
+    "@agaroot/eslint-config-javascript": "2.0.7",
+    "@agaroot/eslint-config-next": "3.0.9",
+    "@agaroot/eslint-config-react": "3.0.9",
+    "@agaroot/eslint-config-style": "2.0.9",
+    "@agaroot/eslint-config-typescript": "2.0.8",
+    "@tsconfig/next": "2.0.3",
+    "@tsconfig/strictest": "2.0.5",
+    "@types/node": "22.8.2",
+    "@types/react": "18.3.12",
+    "eslint": "8.57.1",
+    "typescript": "5.6.3"
   },
-  "packageManager": "pnpm@9.8.0"
+  "packageManager": "pnpm@9.12.3"
 }

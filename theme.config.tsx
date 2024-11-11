@@ -1,4 +1,6 @@
-import { useConfig, type DocsThemeConfig } from 'nextra-theme-docs'
+import { useConfig } from 'nextra-theme-docs';
+
+import type { DocsThemeConfig } from 'nextra-theme-docs';
 
 const siteTitle = 'PrAha Entrance Book';
 
@@ -9,60 +11,58 @@ export default {
   },
   docsRepositoryBase: 'https://github.com/praha-inc/about-us/tree/main',
   footer: {
-    text: '©2020 PrAha Inc. All Rights Reserved',
+    content: '©2020 PrAha Inc. All Rights Reserved',
   },
   feedback: {
-    content: null
+    content: null,
   },
   editLink: {
-    text: 'GitHubでこのページの修正を提案する'
+    content: 'GitHubでこのページの修正を提案する',
   },
-  useNextSeoProps() {
-    return {
-      titleTemplate: `%s | ${siteTitle}`,
-    };
-  },
-  head: () => {
-    const { title } = useConfig();
+  head: function Head() {
+    const config = useConfig();
     return (
       <>
-        <meta 
-          property='og:url'
-          content='https://entrance.praha-inc.com/'
+        <title>
+          {`${config.title} | ${siteTitle}`}
+        </title>
+        <meta
+          property="og:url"
+          content="https://entrance.praha-inc.com/"
         />
         <meta
-          property='og:title'
-          content={`${title} | ${siteTitle}`}
+          property="og:title"
+          content={`${config.title} | ${siteTitle}`}
         />
         <meta
-          property='og:image'
-          content='https://storage.googleapis.com/production-os-assets/assets/3e2414da-29eb-4a09-a665-b35ce4ecb451'
-        />
-        <meta 
-          property='og:type'
-          content='website'
+          property="og:image"
+          content="https://storage.googleapis.com/production-os-assets/assets/3e2414da-29eb-4a09-a665-b35ce4ecb451"
         />
         <meta
-          name='description'
-          content='株式会社PrAhaのEntrance Bookです。'
+          property="og:type"
+          content="website"
+        />
+        <meta
+          name="description"
+          content="株式会社PrAhaのEntrance Bookです。"
         />
         <link
-          rel='icon'
-          type='image/png'
-          href='https://storage.googleapis.com/production-os-assets/assets/20ca8184-a65b-42b5-8571-78324aef53bd'
+          rel="icon"
+          type="image/png"
+          href="https://storage.googleapis.com/production-os-assets/assets/20ca8184-a65b-42b5-8571-78324aef53bd"
         />
         <link
-          rel='apple-touch-icon'
-          type='image/png'
-          href='https://storage.googleapis.com/production-os-assets/assets/20ca8184-a65b-42b5-8571-78324aef53bd'
+          rel="apple-touch-icon"
+          type="image/png"
+          href="https://storage.googleapis.com/production-os-assets/assets/20ca8184-a65b-42b5-8571-78324aef53bd"
         />
         <meta
-          property='twitter:card'
-          content='summary_large_image'
+          property="twitter:card"
+          content="summary_large_image"
         />
         <meta
-          property='twitter:image'
-          content='https://storage.googleapis.com/production-os-assets/assets/3e2414da-29eb-4a09-a665-b35ce4ecb451'
+          property="twitter:image"
+          content="https://storage.googleapis.com/production-os-assets/assets/3e2414da-29eb-4a09-a665-b35ce4ecb451"
         />
       </>
     );
