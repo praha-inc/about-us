@@ -74,46 +74,7 @@ Webアプリのフロントエンド、バックエンド、クラウドイン�
 PrAhaでは[新規事業のWEBサービスを開発するために必要な知識](https://zenn.dev/dowanna6/articles/502c49e3069132)を学べるブートキャンプ「[PrAha Challenge](https://praha-challenge.com/)」を運営しており、そこでは上記の開発文化に沿ったカリキュラムが用意されています。
 
 ## 技術スタック
-
-### 受託開発の場合
-クライアント先によって異なりますが、過去には以下のような技術を使用していました。
-- 言語
-  - Go
-  - Python
-  - TypeScript
-- フロントエンド
-  - Nuxt
-  - Next.js
-  - Svelte
-  - SWR
-  - Chakra UI
-  - Tailwind CSS
-  - react-hook-form
-  - Storybook
-  - Vite
-  - aspida
-  - pathpida
-- バックエンド
-  - Prisma
-  - Apollo GraphQL
-- データベース
-  - Neo4j
-- インフラ
-  - AWS
-  - GCP
-  - Vercel
-  - Heroku
-  - Firebase
-- IaC
-  - Terraform
-- テスト
-  - Jest
-  - Cypress
-- その他
-  - Jupyter Notebook
-
-### アガルートグループのシステム開発の場合
-PrAhaが作ったアガルートグループのシステムは、フロントもバックもTypeScriptで揃えることがほとんどです。
+フロントもバックもTypeScriptで揃えることがほとんどです。
 
 昔から存在するシステムは、Laravelで構築されています。
 
