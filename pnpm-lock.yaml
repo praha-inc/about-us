@@ -36,8 +36,8 @@ importers:
         specifier: 14.3.0
         version: 14.3.0
       textlint-rule-preset-smarthr:
-        specifier: 1.32.0
-        version: 1.32.0
+        specifier: 1.32.1
+        version: 1.32.1
     devDependencies:
       '@agaroot/eslint-config-common':
         specifier: 3.0.6
@@ -83,22 +83,26 @@ packages:
 
   '@agaroot/eslint-config-common@3.0.6':
     resolution: {integrity: sha512-0qpFSCkx0LR4GkFgIxWuaNS+ZUDPwpj409RNzHWGtg26X/WY6JE5ka+hdM49zaGJ50isV7kX8C6ueLcgo8j5Pg==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-common.
     peerDependencies:
       eslint: ^8.0.0
 
   '@agaroot/eslint-config-definer@1.0.5':
     resolution: {integrity: sha512-RTYVTKz8FXDv9uGcA8ACxWR91WqU7wmX6L+9OBMQn5JFVTbUaCP4VRzD0HoUjzocEXQozssCeQOn2xNY4VRDTg==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-definer.
     peerDependencies:
       eslint: ^8.0.0
 
   '@agaroot/eslint-config-javascript@2.0.7':
     resolution: {integrity: sha512-x5vVUVBSWuqQe9cvoUQe8T/EHYN7vpC5E1ZPySKgpHnwX5I67z74IeIffL06+8OqafFP+oI2K6fNixV0JZ5NJQ==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-javascript.
     peerDependencies:
       '@agaroot/eslint-config-common': 3.0.6
       eslint: ^8.0.0
 
   '@agaroot/eslint-config-next@3.0.9':
     resolution: {integrity: sha512-80X2Q+zrASLGh2SwYLs2/7PuBJuwOtyebPOUReoyAip4P2nwjwEvDMMWDjphnFlCprQBy29pCl718nGSbYNm5w==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-next.
     peerDependencies:
       '@agaroot/eslint-config-common': 3.0.6
       '@agaroot/eslint-config-javascript': 2.0.7
@@ -111,6 +115,7 @@ packages:
 
   '@agaroot/eslint-config-react@3.0.9':
     resolution: {integrity: sha512-Fzhu548we2igTa1MIhHHcP2B+iuDZhNwlEPnvbLJ2/QRaaj82GDckxOtleAWGxFzX7a56NyRGo0wvSdWYLWDEQ==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-react.
     peerDependencies:
       '@agaroot/eslint-config-common': 3.0.6
       '@agaroot/eslint-config-javascript': 2.0.7
@@ -122,6 +127,7 @@ packages:
 
   '@agaroot/eslint-config-style@2.0.9':
     resolution: {integrity: sha512-NnZNq8nIpXLt5AKWplsdp98pZ3UR4HsImTlvc/jlufkoaxond+zxNfFWpU2pCVfWsdG1XtA6wnNDKOz8c/2fhA==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-style.
     peerDependencies:
       '@agaroot/eslint-config-common': 3.0.6
       '@agaroot/eslint-config-javascript': 2.0.7
@@ -133,6 +139,7 @@ packages:
 
   '@agaroot/eslint-config-typescript@2.0.8':
     resolution: {integrity: sha512-WwLDs6ATJq7SAqmYqbhXxNDidZ6+MxV1CA+LVzv3/qDUEgDjQL+KCIreeBKfW4jBr0ruWpmDAEr5uTNl92KZJw==}
+    deprecated: This package was delegated to PrAha. Please use @praha/eslint-config-typescript.
     peerDependencies:
       '@agaroot/eslint-config-common': 3.0.6
       '@agaroot/eslint-config-javascript': 2.0.7
@@ -666,8 +673,8 @@ packages:
   '@tanstack/virtual-core@3.8.3':
     resolution: {integrity: sha512-vd2A2TnM5lbnWZnHi9B+L2gPtkSeOtJOAw358JqokIH1+v2J7vUAzFVPwB/wrye12RFOurffXu33plm4uQ+JBQ==}
 
-  '@textlint-rule/textlint-rule-no-unmatched-pair@2.0.3':
-    resolution: {integrity: sha512-asZI8nYuXP6TNHRKPSDAqBzL/7LWdX5QgFp1ZSezJOzmWinI9r9JK9ywl71T7YZbR8IN06/g35rSFJVziidc2Q==}
+  '@textlint-rule/textlint-rule-no-unmatched-pair@2.0.4':
+    resolution: {integrity: sha512-g9Ge1xUV9xJy8T7nuutF/2J6Cg2mmPx4gKsC3dCdxVxuL0wMqOOnAi8l6psFpAQ5UFtQuAzwkdclrehPtBT5tg==}
 
   '@textlint/ast-node-types@13.4.1':
     resolution: {integrity: sha512-qrZyhCh8Ekk6nwArx3BROybm9BnX6vF7VcZbijetV/OM3yfS4rTYhoMWISmhVEP2H2re0CtWEyMl/XF+WdvVLQ==}
@@ -713,9 +720,6 @@ packages:
 
   '@textlint/markdown-to-ast@14.3.0':
     resolution: {integrity: sha512-z4UMKFh3r5KtylPt5OO6su7DScU+fMZ7Qv5LTrJNaOqcmOzFho64Y1I26BJv86f8BC+MUYP0kza5MZGaR2LYQA==}
-
-  '@textlint/module-interop@14.2.0':
-    resolution: {integrity: sha512-1X3DfCwF3y07eVyK41K6As0L+Ekyn5lAh98hVoUNOGDJQtjRvM3aKZ8z0o0BtbCeH7nYTyExo31lUgURWuDWnQ==}
 
   '@textlint/module-interop@14.3.0':
     resolution: {integrity: sha512-Adxkx8GSFVPhCZiveTD/u66f5T3W6yIlPUsKi7ZLar7ahYI/D4P/XfA0RNhgMF3xM4uw+vNrer2LcY4KY7cUfw==}
@@ -3648,8 +3652,8 @@ packages:
   textlint-rule-no-hankaku-kana@2.0.1:
     resolution: {integrity: sha512-39s94HK6V1xnII1haYiYQnWy1YQAKK7Zj0mcpUMFHHC4M5JdsRnhGs6DQPVEff0gQIFV0iuDNlofXt15kjMtEA==}
 
-  textlint-rule-no-mix-dearu-desumasu@6.0.2:
-    resolution: {integrity: sha512-h/Vs6qltBlkm7bmKT2rtJ6jZriNV3uTr5fxKuPMBUHVUMnAuQvz3lI7oFrGC10Pxny+Ofng5fbLiYntHq/ymaA==}
+  textlint-rule-no-mix-dearu-desumasu@6.0.3:
+    resolution: {integrity: sha512-6yHxMUMEp8A267gIO9DB9ElNv5VBVNEpSUbxS6sUKZtETTGHQ3P6pdNW20EShvNfy3GA7gl1+vovkFPH8NEtYw==}
 
   textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet@1.0.1:
     resolution: {integrity: sha512-jRiBtdslvtFNgWhCT1FZW0Ct5lfO3Af39iKJV20hxOZMhxM0sz+pnfmooEQ9wpAQm5kL+W1kJoX2O9uKw01AvA==}
@@ -3657,8 +3661,9 @@ packages:
   textlint-rule-no-nfd@2.0.2:
     resolution: {integrity: sha512-lIUvcQ+wqtConpPQU2YwEJl2dRcRyyrxPYZ3V76UwnkVg++XPLIrE5mLDgyNE/UIQ34e/KitJfMLqKWvnkFbNQ==}
 
-  textlint-rule-preset-smarthr@1.32.0:
-    resolution: {integrity: sha512-G190aEo+kvatJadAo7UKOTVADkOVcmOREaibcLldhnlNS+6PDzj34jyxLI6YQ5DEl/p7OcX+50MAByDktguxRQ==}
+  textlint-rule-preset-smarthr@1.32.1:
+    resolution: {integrity: sha512-cXcT/jXlwsclqt7LswYdOGtnEY9OdC7quTxHPIJzmxgLMOOL3BfRMAv2LrljNjpzb6cvTuLlZRFPxsCBYRfdvw==}
+    engines: {pnpm: '=9.13.2'}
 
   textlint-rule-prh@5.3.0:
     resolution: {integrity: sha512-gdod+lL1SWUDyXs1ICEwvQawaSshT3mvPGufBIjF2R5WFPdKQDMsiuzsjkLm+aF+9d97dA6pFsiyC8gSW7mSgg==}
@@ -4650,7 +4655,7 @@ snapshots:
 
   '@tanstack/virtual-core@3.8.3': {}
 
-  '@textlint-rule/textlint-rule-no-unmatched-pair@2.0.3':
+  '@textlint-rule/textlint-rule-no-unmatched-pair@2.0.4':
     dependencies:
       sentence-splitter: 5.0.0
       textlint-rule-helper: 2.3.1
@@ -4787,8 +4792,6 @@ snapshots:
       unified: 9.2.2
     transitivePeerDependencies:
       - supports-color
-
-  '@textlint/module-interop@14.2.0': {}
 
   '@textlint/module-interop@14.3.0': {}
 
@@ -8757,7 +8760,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  textlint-rule-no-mix-dearu-desumasu@6.0.2:
+  textlint-rule-no-mix-dearu-desumasu@6.0.3:
     dependencies:
       analyze-desumasu-dearu: 5.0.1
       textlint-rule-helper: 2.3.1
@@ -8773,10 +8776,10 @@ snapshots:
       match-index: 1.0.3
       textlint-rule-helper: 2.3.1
 
-  textlint-rule-preset-smarthr@1.32.0:
+  textlint-rule-preset-smarthr@1.32.1:
     dependencies:
-      '@textlint-rule/textlint-rule-no-unmatched-pair': 2.0.3
-      '@textlint/module-interop': 14.2.0
+      '@textlint-rule/textlint-rule-no-unmatched-pair': 2.0.4
+      '@textlint/module-interop': 14.3.0
       textlint-rule-ja-hiragana-daimeishi: 1.0.0
       textlint-rule-ja-hiragana-hojodoushi: 1.1.0
       textlint-rule-ja-keishikimeishi: 1.0.5
@@ -8797,7 +8800,7 @@ snapshots:
       textlint-rule-no-doubled-joshi: 5.1.0
       textlint-rule-no-dropping-the-ra: 3.0.0
       textlint-rule-no-hankaku-kana: 2.0.1
-      textlint-rule-no-mix-dearu-desumasu: 6.0.2
+      textlint-rule-no-mix-dearu-desumasu: 6.0.3
       textlint-rule-no-mixed-zenkaku-and-hankaku-alphabet: 1.0.1
       textlint-rule-no-nfd: 2.0.2
       textlint-rule-prh: 6.0.0
